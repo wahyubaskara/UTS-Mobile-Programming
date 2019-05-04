@@ -7,4 +7,6 @@ Proyek ini menggunakan:
 - Kotlin
 - LiveData
 - Room Database (SQLite)
+- Androidx Aftifacts
 - RecyclerView
+
